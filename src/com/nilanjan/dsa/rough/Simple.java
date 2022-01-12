@@ -1,4 +1,4 @@
-package com.nilanjan.dsa;
+package com.nilanjan.dsa.rough;
 
 class GFG{
     public static void main(String args[]){  

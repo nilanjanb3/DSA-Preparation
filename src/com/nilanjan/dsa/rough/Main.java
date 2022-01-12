@@ -1,4 +1,4 @@
-package com.nilanjan.dsa;
+package com.nilanjan.dsa.rough;
 
 public class Main {
 
